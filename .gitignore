@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+*.skill
+.env
+.env.*
+node_modules/
