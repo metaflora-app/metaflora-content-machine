@@ -4,7 +4,7 @@
 
 Каждый навык работает отдельно. В общей цепочке следующий шаг получает подготовленный материал и может продолжить работу без повторного разбора входа.
 
-![Карта Content Machine](assets/content-machine-map.png)
+![Карта Content Machine](assets/svg/content-machine-map.svg)
 
 ## Что внутри
 
@@ -193,7 +193,7 @@ cp -R hook-lab ~/.codex/skills/hook-lab
 - [`script-smith`](docs/examples/script-smith.md)
 - [`repurpose`](docs/examples/repurpose.md)
 
-![Одна идея для разных форматов](assets/repurpose-map.png)
+![Одна идея для разных форматов](assets/svg/repurpose-map.svg)
 
 ## Ограничения и аккуратность
 
